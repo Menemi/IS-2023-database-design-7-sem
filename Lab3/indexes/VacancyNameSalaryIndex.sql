@@ -1,0 +1,1 @@
+CREATE INDEX vacancy_name_salary_idx ON "Vacancy" ("VacancyName", "Salary");
