@@ -7,4 +7,4 @@
 - [x] [Лабораторная работа 3](https://github.com/Menemi/IS-2023-database-design-7-sem/tree/master/Lab3)
 - [x] [Лабораторная работа 4](https://github.com/Menemi/IS-2023-database-design-7-sem/tree/master/Lab4)
 - [x] [Лабораторная работа 5](https://github.com/Menemi/IS-2023-database-design-7-sem/tree/master/Lab5)
-- [] [Лабораторная работа 6](https://github.com/Menemi/IS-2023-database-design-7-sem/tree/master/Lab6)
+- [ ] [Лабораторная работа 6](https://github.com/Menemi/IS-2023-database-design-7-sem/tree/master/Lab6)
