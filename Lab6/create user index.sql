@@ -1,0 +1,1 @@
+db.User.createIndex({"name": 1, "surname": 1});
